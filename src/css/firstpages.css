@@ -1,0 +1,289 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.boshi{
+    width: 100%;
+    height: 5vh;
+    background: #333333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    font-size: 17px;
+}
+.boshi h5{
+    font-weight: 150;
+    font-family: Roboto,sans-serif;
+}
+.chap{
+    display: flex;   
+    align-items: center;
+    margin-right: 200px;
+    gap: 35px; 
+}
+.loka{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.ong{
+    display: flex;
+    align-items: center;
+    gap: 25px; 
+}
+.btn{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 4px 7px;
+    border: 1px solid #717273;
+    background: none;
+    border-radius: 15px;
+}
+.nomer{
+    font-size: 17px;
+    font-weight: 500 !important;
+}
+.Yuridik{
+    padding: 2px 2px;
+    background: rgb(87, 87, 87);
+    border-radius: 6px;
+}
+.navv{
+    width: 100%;
+    height: 13vh;
+    display: flex;
+    align-items: center;
+}
+.txn{
+    margin-left: 25px;
+    font-size: 45px;
+}
+.txn span{
+    font-size: 55px;
+}
+.btn1{
+    padding: 11px 22px;
+    margin-left: 50px;
+    font-size: 16px;
+    gap: 7px;
+    background: #fbc100;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;  
+}
+.inp{
+    padding-left: 10px;
+    width: 40%;
+    height: 7vh;
+    margin-left: 15px;
+    border-radius: 10px;
+    border: 2px solid #fbc100;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: #9fa0a1;
+}
+.mikro{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 390px;
+}
+.stikrr{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    gap: 50px;
+}
+.stikr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.rowii{
+    padding-left: 38px;
+    width: 100%;
+    height: 4vh;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    gap: 26px;
+    color: #373f41;
+}
+.rowii p:hover{
+    color: #717273;
+    cursor: pointer;
+}
+.lgii{
+    position: relative;
+    bottom: 30px;
+    font-size: 250px;
+}
+.elgi{
+    position: relative;
+    bottom: 290px;
+    left: 150px;
+}
+.box{
+    height: 9.7vh;
+    width: 10.7%;
+    border-radius: 15px;
+    box-shadow: 0px 0px 8px 0px #d6d7d8;
+}
+.carusel-mini{
+    display: flex;
+    align-items: center;
+    gap: 21px;
+    padding-top: 70px;
+    padding-left: 30px;
+}
+.box{
+    display: flex;
+    align-items: center !important;
+    justify-content: center;
+    margin-top: 26px;
+}
+.box img{
+    width: 70px;
+    height: 22px;
+}
+.ommabop{
+    padding: 50px 0px 0px 35px;
+
+}
+.imgi{
+    width: 100%;
+    height: 44vh;
+}
+.boxi{
+    display: flex;
+    align-items: center;
+    height: 9.7vh;
+    width: 18%;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px 0px #d6d7d8;
+}
+.rowiii{
+    padding-left: 38px;
+    padding-top: 70px;
+    width: 100%;
+    height: 4vh;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    gap: 26px;
+    color: #373f41;
+}
+.giff{
+    width: 130px;
+    height: 24px;
+}
+.mazza{
+    padding: 5px 15px;
+    background: linear-gradient(107.93deg,#ff5336 25.59%,#ff833d 81.58%);
+    border-radius: 15px;
+    color: #ffffff;
+}
+.mazza img{
+    width: 15px;
+    height: 15px;
+}
+.carusell{
+    padding-top: 15px;
+}
+.rowiiii{
+    padding-top: 60px;
+    padding-left: 40px;
+    font-size: 16px;
+    color: #333333;
+}
+.olov{
+    width: 20px;
+    height: 20px;
+}
+
+
+.container{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.colli{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    border: 1px solid #ececec;
+    padding: 16px;
+    border-radius: 15px;
+}
+.colli h3{
+    font-size: 14px;
+    color: #373f41;
+}
+.colli img{
+    width: 220px;
+    height: 180px;
+}
+.korzina{
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.colli p{
+    padding: 2px 5px;
+    background: #f4f4f4;
+    border-radius: 10px;
+    font-size: 14px;
+    width: 165px;
+}
+.colli h2{
+    font-size: 18px;
+    color: #333333;
+}
+.xit-savdo{
+    padding-top: 40px;
+    padding-left: 40px;
+    font-size: 16px;
+    color: #333333;
+}
+.xit-savdoo{
+    padding-top: 40px;
+    padding-left: 40px;
+    font-size: 16px;
+    color: #333333;
+}
+.btn2{
+    padding: 7px 15px;
+    font-size: 14px;
+    background: #fbc100;
+    border: none;
+    border-radius: 20px; 
+}
+.btn3{
+    padding: 7px 15px;
+    font-size: 14px;
+    margin-left: 15px;
+    background: none;
+    border: 1px solid #f4f4f4;
+    border-radius: 20px; 
+}
+.colli span{
+    text-decoration: line-through;
+    color: #767676;
+    font-size: 14px;
+}
+.korzina button{
+    border: 2px solid #fbc100;
+    padding: 5px 10px;
+    border-radius: 7px;
+    background: #ffffff;
+}
